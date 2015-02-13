@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "first_gem"
   spec.version       = FirstGem::VERSION
   spec.authors       = ["Manohar"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.email         = ["manoharmnnit@gmail.com"]
+  spec.summary       = %q{first gem}
+  spec.description   = %q{this gives you power of a number}
   spec.homepage      = ""
   spec.license       = "MIT"
 
