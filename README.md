@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/manoharlaldas/example_gem.svg?branch=master)](https://travis-ci.org/manoharlaldas/example_gem)
 
+[![Coverage Status](https://coveralls.io/repos/manoharlaldas/example_gem/badge.svg)](https://coveralls.io/r/manoharlaldas/example_gem)
+
 # FirstGem
 
 TODO: Write a gem description
