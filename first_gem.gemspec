@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'first_gem/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "first_gem"
+  spec.name          = "mannu_power_gem"
   spec.version       = FirstGem::VERSION
   spec.authors       = ["Manohar"]
   spec.email         = ["manoharmnnit@gmail.com"]
