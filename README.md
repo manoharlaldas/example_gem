@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/manoharlaldas/example_gem.svg?branch=master)](https://travis-ci.org/manoharlaldas/example_gem)
+
 # FirstGem
 
 TODO: Write a gem description
